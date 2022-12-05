@@ -1,2 +1,3 @@
-# XCast-Wordpress
- Controle de criação de contas no painel xcast atravez do woocomerce wordpress
+# XCast + WordPress + Woocommerce + Webhook
+
+Controle de criação de contas no painel xcast através do woocommerce wordpress
